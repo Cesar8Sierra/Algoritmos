@@ -12,6 +12,6 @@ Algoritmo Variables
 	Escribir "Tu eres: " Nombres " " Apellidos 
 	Escribir "Tu primer pago es: " Pago1 ", y tu segundo pago es: " Pago2
 	Escribir "Tu pago total es: " Total
-	Escribir "Tus im´puestos son: " Impuestos
+	Escribir "Tus impuestos son: " Impuestos
 	Escribir "Tu Pago Neto es: " PagoNeto
 FinAlgoritmo
